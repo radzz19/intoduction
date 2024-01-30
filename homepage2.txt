@@ -4,4 +4,5 @@ GOOD MORNING
 i
 my name is radhika.
 I am the student of be-cse at chitkara university ,Punjab.
+Currently i am learning SCM.
 
